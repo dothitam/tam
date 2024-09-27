@@ -1,0 +1,110 @@
+#mui-ten{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+#header{
+  margin-top: 30px;
+} 
+#logo{
+    margin: 0;
+    margin-right: 20px;
+}
+#thu-ngay{
+    margin: 0;
+    margin-right: 20px;
+}
+#ha-noi{
+    margin: 0;
+    margin-right: 20px;
+}
+#moi-nhat{
+    margin: 0;
+    margin-right: 20px;
+}
+#tin-theo-khu-vuc{
+    margin: 0;
+    margin-right: 20px;
+}
+#international{
+    margin: 0;
+    margin-right: 20px;
+}
+#danh-sach{
+    position: sticky;
+    top: 0;
+    background-color: white;
+    box-shadow: rgba(33, 35, 38, 0.1) 0px 10px 10px -10px;
+    
+}
+#che{
+    max-width: 600px;
+}
+@media(max-width:400px){
+    #che{
+        width: 30px;
+    }
+}
+@media(max-width:500px){
+    #che{
+        width: 60px;
+    }
+}
+@media(max-width:600px){
+    #che{
+        width: 70px;
+    }
+}
+@media(max-width:700px){
+    #che{
+        width: 80px;
+    }
+}
+.menu{
+    color: black;
+    text-decoration: none;
+    margin-right: 10px;
+}
+.menu:hover{
+    color: rgb(231, 7, 63);
+}
+#ngay-thang-chi-tiet{
+    text-align: right;
+}
+#dulich{
+    text-decoration: none;
+}
+#amthuc{
+    text-decoration: none;
+    color: black;
+}
+#food-tour{
+    font-size: 32px;
+    text-align: center;
+}
+p{
+    font-weight: 500;
+}
+.khong-in-dam{
+    font-weight: 200;
+}
+#bai-lien-quan{
+    border: 1px solid #ccc;
+    padding: 20px;
+
+}
+.ml-10{
+    margin-left: 10px;
+}
+.fs-15{
+    font-size: 22px;
+}
+.ke-hang{
+    border-bottom: 1px solid #ccc;
+}
+.dan-cach-boder{
+    margin: 10px 0 10px 0;
+}
+.text-center{
+    text-align: center;
+}
